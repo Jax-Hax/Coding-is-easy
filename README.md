@@ -11,7 +11,7 @@ The same way you debug! Just look up specific problems you are having. Say I'm m
 For each of these projects, I recommend first building it, then looking up other people's implementations, hopefully one's with an explanation so you can understand their thought process. Compare the two, and take ideas they had for next time.
 
 ## Projects
-Each section will be in order from easiest to hardest, so start with one of the first ones and move down a couple each time.
+Each section will be in order from easiest to hardest, so start with one of the first ones and move down a couple each time. Each one will also have a few ways to expand them, such as making a GUI for it rather than a command line. I recommend starting with Python if this is your first time learning, it is the easiest. If you are going for a specific topic, like game programming or artificial intelligence, you can look at the Specific topics section to see my recommendations. AI is a bit harder, as you do need to learn theory, so I will also recommend the FastAI course for something that shares this philosophy.
 ### Starter (this is for learning how to code if you've never done it before, skip this section if you've used a language before and are just trying to learn a new one.)
 
 ### Beginner
