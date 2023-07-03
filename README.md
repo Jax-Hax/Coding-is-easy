@@ -24,7 +24,10 @@ Chess
 Battleship
 Password generator with inputs like alphabetical only, etc
 ### Hard
-Operating system
+Operating system/VM
 Custom programming language
 Circuit simulator
+Neural network from scratch
+Download manager
+Graphing Calculator
 ### Specific topics
